@@ -19,6 +19,11 @@ Uma aplicação completa demonstrando o uso do AWS X-Ray para rastreamento distr
                     └─────────────────┘
 ```
 
+![Image](https://github.com/user-attachments/assets/d057f7f1-ae29-4f64-98e1-2a4814a600f6)
+
+![Image](https://github.com/user-attachments/assets/49ee21a0-7ac5-48c9-94c8-3f3207542502)
+![Image](https://github.com/user-attachments/assets/fb363b29-5af2-4897-9b90-6f5f03969b83)
+
 ## 🚀 Funcionalidades
 
 - **Frontend**: Interface web servindo uma SPA com proxy para API
