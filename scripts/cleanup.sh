@@ -2,8 +2,8 @@
 
 # Configurações
 PROJECT_NAME="xray-poc"
-REGION="us-east-1"
-PROFILE="bedhock"
+REGION=""
+PROFILE=""
 
 # Cores para output
 RED='\033[0;31m'
